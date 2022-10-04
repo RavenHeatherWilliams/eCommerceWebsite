@@ -25,19 +25,37 @@
     width: 30px;
     border: 2px solid black;
 } 
-
+  
 .add_to_cart_button{
     background-color: #bf7631;
     color: white;
     font-weight: bold;
-    font: size 12px;;
+    font: size 30px;
 }
 
-nav ul {
+nav a{
+    color:black;
+    font-size: 15px;
+    text-decoration: solid;
+} 
+
+nav ul{
     list-style-type: none;
     position: absolute;
     top: 0.7rem;
     right: 1rem;
 }
+
+nav li{
+    display: inline;
+    margin-inline-end: .80rem;
+}
+
+div  h3{
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(10ch, 1fr));
+	width: 80%;
+        
+    }
 
 
