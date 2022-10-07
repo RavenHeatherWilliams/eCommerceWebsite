@@ -92,3 +92,26 @@ nav li{
    
 }
 
+/* .twoPhotos{
+    align-content: center;
+} */
+
+.logoTwo{
+
+    position: flex;
+    float:right;
+    width: 300px;
+    height:fit-content
+    /* position: absolute; */
+    /* right: 75%; */
+        
+  }
+
+.logoThree{
+    position: flex;
+    float: left;
+    width: 125px;
+    height:fit-content;
+    margin-right: 25px;
+}
+
