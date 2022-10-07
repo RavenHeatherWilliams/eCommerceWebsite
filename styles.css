@@ -75,9 +75,10 @@ nav li{
   .logo{
     max-width: 45px;
   }
-    input{
-        display: grid
 
-        
-    }
+.navCart{
+    position:absolute;
+    top: 10px;
+    right: 10px;
+}
 
